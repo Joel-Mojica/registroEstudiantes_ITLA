@@ -1,2 +1,2 @@
-# registroEstudiantesITLA
-Proyecto de registro de estudiantes
+# registroEstudiantes_ITLA
+Tarea programacion web(proyecto registro de estudiantes)
